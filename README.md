@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=woefe&project=ytcc&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # ytcc
 [![lint and test](https://github.com/woefe/ytcc/actions/workflows/lint_and_test.yml/badge.svg)](https://github.com/woefe/ytcc/actions/workflows/lint_and_test.yml)
 
